@@ -1,0 +1,254 @@
+Buildfile: /Users/andrew/cse444/simple-db-zyxing/build.xml
+
+compile:
+
+testcompile:
+   [depend] Deleted 4 out of date files in 0 seconds
+    [javac] Compiling 1 source file to /Users/andrew/cse444/simple-db-zyxing/bin/test
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 8
+    [javac] 1 warning
+
+runsystest:
+    [junit] Running simpledb.systemtest.TransactionTest
+    [junit] Testsuite: simpledb.systemtest.TransactionTest
+    [junit] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.373 sec
+    [junit] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.373 sec
+    [junit] ------------- Standard Output ---------------
+    [junit] --- 1 thread ---
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] 0, 0
+    [junit] Page Num in this file: 1
+    [junit] --- 2 thread ---
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] 0, 0
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] 1, 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Deadlock detected ...
+    [junit] 0, 0
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] 1, 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] 2, 2
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] 3, 3
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] 4, 4
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Deadlock detected ...
+    [junit] 0, 0
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Deadlock detected ...
+    [junit] 1, 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Deadlock detected ...
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Deadlock detected ...
+    [junit] Deadlock detected ...
+    [junit] 2, 2
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] 3, 3
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] 4, 4
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] 5, 5
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] 6, 6
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] 7, 7
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] Deadlock detected ...
+    [junit] 8, 8
+    [junit] Page Num in this file: 1
+    [junit] Page Num in this file: 1
+    [junit] 9, 9
+    [junit] Page Num in this file: 1
+    [junit] ------------- ---------------- ---------------
+    [junit] 
+    [junit] Testcase: testSingleThread took 0.035 sec
+    [junit] Testcase: testTwoThreads took 0.02 sec
+    [junit] Testcase: testFiveThreads took 0.075 sec
+    [junit] Testcase: testTenThreads took 0.212 sec
+    [junit] Testcase: testAllDirtyFails took 0.023 sec
+
+BUILD SUCCESSFUL
+Total time: 1 second
